@@ -1,0 +1,14 @@
+*.swp
+*.pyc
+__pycache__
+coco
+*.pth
+.DS_Store
+train/YOUR_WORKING_DIR
+test/output/*.txt
+build/
+*.so
+.ipynb_checkpoints
+*.ipynb
+.vscode
+*.pyd
